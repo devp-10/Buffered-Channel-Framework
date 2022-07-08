@@ -1,1 +1,2 @@
-# Buffered-Channel-Framework
+# concurrencylab
+Carefully read concurrencylab.pdf in its entirety.
